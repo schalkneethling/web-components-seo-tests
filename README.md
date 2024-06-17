@@ -1,5 +1,7 @@
 # Web Components SEO tests
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3e21651-7cb2-4469-b865-38ca8ac1381d/deploy-status)](https://app.netlify.com/sites/web-componenets-and-seo/deploys)
+
 Inspired by the [article Web Components and SEO by Kyle Buchanan](https://medium.com/patternfly-elements/web-components-and-seo-58227413e072#:~:text=Web%20Components%20and%20SEO%0AWe%20all%20), this is another set of tests to determine the state of web components as it relates to SEO.
 
 ## License
