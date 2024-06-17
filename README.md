@@ -4,6 +4,13 @@
 
 Inspired by the [article Web Components and SEO by Kyle Buchanan](https://medium.com/patternfly-elements/web-components-and-seo-58227413e072#:~:text=Web%20Components%20and%20SEO%0AWe%20all%20), this is another set of tests to determine the state of web components as it relates to SEO.
 
+## Webmaster tool links
+
+- [Google rich results test](https://search.google.com/test/rich-results)
+- [Google search console](https://search.google.com/search-console?resource_id=https://web-componenets-and-seo.netlify.app/)
+- [Bing webmaster tools](https://www.bing.com/webmasters/home?siteUrl=https://web-componenets-and-seo.netlify.app/)
+- [Yandex webmaster tools](https://webmaster.yandex.com/site/https:web-componenets-and-seo.netlify.app:443/dashboard/)
+
 ## License
 
 This project is licensed under [CC0 1.0 Universal](LICENSE) license.
